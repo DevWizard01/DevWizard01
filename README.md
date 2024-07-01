@@ -14,48 +14,21 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- C, C++
-- C#
+- **Programming Languages**: Python, Java, JavaScript, C/C++, C#
 
-### Front-End Development
-- Angular
-- React
-- Bootstrap
-- Tailwind
-- Flowbite
+- **Front-End Development**: Angular, React, Bootstrap, Tailwind, Flowbite
 
-### Back-End Development
-- Spring Boot
-- Flask
-- Django
-- FastAPI
+- **Back-End Development**: Spring Boot, Flask, Django, FastAPI
 
-### Version Control
-- Git
-- GitHub
-- GitLab
+- **Version Control**: Git, GitHub, GitLab
 
-### DevOps & Tools
-- Docker
-- Trello
-- Postman
+- **Game Development**: Unity, Unreal
 
-### Game Development
-- Unity
+- **Databases**: MySQL, MongoDB, PostgreSQL
 
-### Databases
-- MySQL
-- MongoDB
-- PostgreSQL
+- **Tools**: Docker, Trello, Postman
 
-### IDE/Code Editors
-- VSCode
-- PyCharm
-- Eclipse
+- **IDE/Code Editors**: VSCode, PyCharm, Eclipse
 
 ## 🌟 Projects
 
